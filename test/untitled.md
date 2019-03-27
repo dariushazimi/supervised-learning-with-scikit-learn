@@ -22,15 +22,18 @@ Note the use of .drop\(\) to drop the target variable 'party' from the feature a
 
 ## Create arrays for the features and the response variable
 
-`y = df['party'].values X = df.drop('party', axis=1).values`
+`y = df['party'].values   
+X = df.drop('party', axis=1).values`
 
 ## Create a k-NN classifier with 6 neighbors
 
 `knn = KNeighborsClassifier(n_neighbors=6)`
 
-## Fit the classifier to the data
+## Fit `(training)`the classifier to the data
 
 `knn.fit(X,y)`
+
+**`When we say training a model on the data, it's same as 'fitting' a model to the data`** 
 
 
 
