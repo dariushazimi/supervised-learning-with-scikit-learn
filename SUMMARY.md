@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Supervised Learning with scikit-learn](README.md)
 
