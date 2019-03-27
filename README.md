@@ -33,6 +33,10 @@ For supervised learning you need labeled data
 
 There are many ways to do supervised learning in python. One of the powerful libraries is scikit learn or sklearn.
 
+Other libraries are: TensorFlow and Keras
+
+
+
 ### **Unsupervised learning**
 
 Uncovering hidden patterns from unlabeled data.
