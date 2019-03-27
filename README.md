@@ -14,12 +14,24 @@ Supervised learning uses labeled data and when there are no labeled data, we cal
 
 In supervised learning we have Predictor variables / features and a target variable.
 
-Goal: Predict the target variable, given the predictor variables.
+Goal: 
+
+* Make future predictions \(Predict the target variable, given the predictor variables., say will a customer click on an add or not?\)
+* Automate time-consuming task \(doctor's diagnosis\)
 
 | **Task type** | **Target variable** |
 | :--- | :--- |
 | Classification | is categorical \(spam or legit\) |
 | Regression | is continuous \(like price of houses\) |
+
+#### **Supervised learning Requirements**
+
+For supervised learning you need labeled data 
+
+* Historical data with labels
+* Experiments to get labeled data \(see how many click a page gets\)
+
+There are many ways to do supervised learning in python. One of the powerful libraries is scikit learn or sklearn.
 
 ### **Unsupervised learning**
 
