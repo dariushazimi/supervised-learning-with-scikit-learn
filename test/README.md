@@ -1,9 +1,12 @@
-# 1-Classification
+# 01-Classification
 
-## Naming conventions
+## Getting Super Powers
 
-Features = predictor variable = independent variable  
-Target variables = dependent variable = response variable
+Becoming a super hero is a fairly straight forward process:
+
+```
+$ give me super-powers
+```
 
 {% hint style="info" %}
  Super-powers are granted randomly so please submit an issue if you're not happy with yours.
